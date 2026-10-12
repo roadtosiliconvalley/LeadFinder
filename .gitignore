@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+leads.db
+exports/
+.env
